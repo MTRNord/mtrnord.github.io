@@ -30,9 +30,9 @@ menu:
 owner:
   name:           Marcel Radzio
   site:           https://mtrnord.github.io/
-  avatar:         images/avatar.jpg
+  avatar:         images/avatar512.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          info@nordgedanken.de
   # Twitter nick for use in Twitter cards and follow button.
   twitter: mtrnord # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
